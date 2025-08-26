@@ -1,14 +1,14 @@
 {
   "assertionMethod": [
-    "did:web:syedsalman3753.github.io:inji-config:vc-local-ed25519#key-0"
+    "did:web:injibr.github.io:inji-did:uat#key-0"
   ],
   "service": [],
-  "id": "did:web:syedsalman3753.github.io:inji-config:vc-local-ed25519",
+  "id": "did:web:injibr.github.io:inji-did:uat",
   "verificationMethod": [
     {
-      "publicKeyMultibase": "z6MknECA6ovrGjz8XvsQ8PnDmjyGgZoikK25joKVAmtezRr2",
-      "controller": "did:web:syedsalman3753.github.io:inji-config:vc-local-ed25519",
-      "id": "did:web:syedsalman3753.github.io:inji-config:vc-local-ed25519#key-0",
+      "publicKeyMultibase": "z6MkiyvjmpXFAizUSSxcMFGf1AYk6XxS4qwSjZ4rTq7nKsqj",
+      "controller": "did:web:injibr.github.io:inji-did:uat",
+      "id": "did:web:injibr.github.io:inji-did:uat#key-0",
       "type": "Ed25519VerificationKey2020",
       "@context": "https://w3id.org/security/suites/ed25519-2020/v1"
     }
@@ -18,6 +18,6 @@
   ],
   "alsoKnownAs": [],
   "authentication": [
-    "did:web:syedsalman3753.github.io:inji-config:vc-local-ed25519#key-0"
+    "did:web:injibr.github.io:inji-did:uat#key-0"
   ]
 }
