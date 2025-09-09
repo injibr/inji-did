@@ -1,4 +1,3 @@
-
 {
   "assertionMethod": [
     "did:web:injibr.github.io:inji-did:dev:incra#key-0"
@@ -7,7 +6,7 @@
   "id": "did:web:injibr.github.io:inji-did:dev:incra",
   "verificationMethod": [
     {
-      "publicKeyMultibase": "z6Mkpr3C9ev1UxhQfSyKvWw1jJcp8Y683VvriCn3iKeXNaxD",
+      "publicKeyMultibase": "z6MksfdAp8DDRq5Wiw6FRwxs3ygRLS8wC43U6T6zrdmAMYFz",
       "controller": "did:web:injibr.github.io:inji-did:dev:incra",
       "id": "did:web:injibr.github.io:inji-did:dev:incra#key-0",
       "type": "Ed25519VerificationKey2020",
