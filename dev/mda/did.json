@@ -6,7 +6,7 @@
   "id": "did:web:injibr.github.io:inji-did:dev:mda",
   "verificationMethod": [
     {
-      "publicKeyMultibase": "z6MksAp2q9jTEjUfSfKSF2kooQCTdFAk6XgDA9Xe9Cjre5S9",
+      "publicKeyMultibase": "z6MkqAviN17oj4P6nf1DHNw8ZiGwFNcj4nXa1HX7cHTmAXZ1",
       "controller": "did:web:injibr.github.io:inji-did:dev:mda",
       "id": "did:web:injibr.github.io:inji-did:dev:mda#key-0",
       "type": "Ed25519VerificationKey2020",
