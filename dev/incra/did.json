@@ -6,7 +6,7 @@
   "id": "did:web:injibr.github.io:inji-did:dev:incra",
   "verificationMethod": [
     {
-      "publicKeyMultibase": "z6MksfdAp8DDRq5Wiw6FRwxs3ygRLS8wC43U6T6zrdmAMYFz",
+      "publicKeyMultibase": "z6MkiDjVMZBZAiuUNsCtT5yyvH7QZVMLuofQuSWaZgyY2qrW",
       "controller": "did:web:injibr.github.io:inji-did:dev:incra",
       "id": "did:web:injibr.github.io:inji-did:dev:incra#key-0",
       "type": "Ed25519VerificationKey2020",
