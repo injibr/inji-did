@@ -3,7 +3,7 @@
     "did:web:injibr.github.io:inji-did:preprod:mgi#key-0"
   ],
   "service": [],
-  "id": "ddid:web:injibr.github.io:inji-did:preprod:mgi",
+  "id": "did:web:injibr.github.io:inji-did:preprod:mgi",
   "verificationMethod": [
     {
       "publicKeyMultibase": "z6MkrR1PD8GDiZ7TCXkEzcria9rVjXAQZdCeytWUe5jNEgmZ",
