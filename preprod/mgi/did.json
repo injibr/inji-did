@@ -3,10 +3,10 @@
     "did:web:injibr.github.io:inji-did:preprod:mgi#key-0"
   ],
   "service": [],
-  "id": "did:web:injibr.github.io:inji-did:preprod:mgi",
+  "id": "ddid:web:injibr.github.io:inji-did:preprod:mgi",
   "verificationMethod": [
     {
-      "publicKeyMultibase": "z6MkrR1PD8GDiZ7TCXkEzcria9rVjXAQZdCeytWUe5jNEgmZ",
+      "publicKeyMultibase": "z6Mkmesn3JhPJ5UF3JHu1z1RxaRqdYPmwig4c1Sz9KMw6pcw",
       "controller": "ddid:web:injibr.github.io:inji-did:preprod:mgi",
       "id": "did:web:injibr.github.io:inji-did:preprod:mgi#key-0",
       "type": "Ed25519VerificationKey2020",
