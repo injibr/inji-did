@@ -1,0 +1,23 @@
+{
+  "assertionMethod": [
+    "did:web:injibr.github.io:inji-did:dev:mgi:eca#p8Udu0E0GI43L0sU-tyyIHIjQahBzzYxAWnVsGJsVrc"
+  ],
+  "service": [],
+  "id": "did:web:injibr.github.io:inji-did:dev:mgi:eca",
+  "verificationMethod": [
+    {
+      "publicKeyMultibase": "z6MkgN6vr1K2AMC9kQjxuaTi7YPk5NTBot9e1MNtno81neCU",
+      "controller": "did:web:injibr.github.io:inji-did:dev:mgi:eca",
+      "id": "did:web:injibr.github.io:inji-did:dev:mgi:eca#p8Udu0E0GI43L0sU-tyyIHIjQahBzzYxAWnVsGJsVrc",
+      "type": "Ed25519VerificationKey2020",
+      "@context": "https://w3id.org/security/suites/ed25519-2020/v1"
+    }
+  ],
+  "@context": [
+    "https://www.w3.org/ns/did/v1"
+  ],
+  "alsoKnownAs": [],
+  "authentication": [
+    "did:web:injibr.github.io:inji-did:dev:mgi:eca#p8Udu0E0GI43L0sU-tyyIHIjQahBzzYxAWnVsGJsVrc"
+  ]
+}
