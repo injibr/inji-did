@@ -6,7 +6,7 @@
   "id": "did:web:injibr.github.io:inji-did:dev:mgi:eca",
   "verificationMethod": [
     {
-      "publicKeyMultibase": "z6MkgN6vr1K2AMC9kQjxuaTi7YPk5NTBot9e1MNtno81neCU",
+      "publicKeyMultibase": "z6Mknhk4Reng971tNmdmVjMBMLsCobp362Wg2ruXDfviKFL6",
       "controller": "did:web:injibr.github.io:inji-did:dev:mgi:eca",
       "id": "did:web:injibr.github.io:inji-did:dev:mgi:eca#p8Udu0E0GI43L0sU-tyyIHIjQahBzzYxAWnVsGJsVrc",
       "type": "Ed25519VerificationKey2020",
