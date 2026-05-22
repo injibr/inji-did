@@ -6,9 +6,9 @@
   "id": "did:web:injibr.github.io:inji-did:dev:mgi",
   "verificationMethod": [
     {
-      "publicKeyMultibase": "z6MkgebphNRLcMTydmu7jX4rbp2v13p29dkVc8CNkoooTwwW",
+      "publicKeyMultibase": "z6Mkt92erfda14CnLnzeTV4Li8N5v8oxXeeFUNVQGEqsoHFe",
       "controller": "did:web:injibr.github.io:inji-did:dev:mgi",
-      "id": "did:web:injibr.github.io:inji-did:dev:mgi#qeSHwmm3VduU44ZrmrDfA5tQvvph-QuybsX_ulXxEB8",
+      "id": "did:web:injibr.github.io:inji-did:dev:mgi#VVbLtOIZZe0hgbIWW8Vh0xwNhhK7pSgMmKV2iBlV8Ho",
       "type": "Ed25519VerificationKey2020",
       "@context": "https://w3id.org/security/suites/ed25519-2020/v1"
     }
