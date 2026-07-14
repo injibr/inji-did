@@ -1,0 +1,7 @@
+{
+  "@context": {
+    "@version": 1.1,
+    "ECACredential": "https://injibr.github.io/inji-did/contexts/eca/v1#ECACredential",
+    "isOver18": "https://injibr.github.io/inji-did/contexts/eca/v1#isOver18"
+  }
+}

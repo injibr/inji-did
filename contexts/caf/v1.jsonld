@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@version": 1.1,
+    "CAFCredential": "https://injibr.github.io/inji-did/contexts/caf/v1#CAFCredential",
+    "numero": "https://injibr.github.io/inji-did/contexts/caf/v1#numero",
+    "situacao": "https://injibr.github.io/inji-did/contexts/caf/v1#situacao",
+    "dataEmissao": "https://injibr.github.io/inji-did/contexts/caf/v1#dataEmissao",
+    "dataValidade": "https://injibr.github.io/inji-did/contexts/caf/v1#dataValidade",
+    "dataAtualizacao": "https://injibr.github.io/inji-did/contexts/caf/v1#dataAtualizacao",
+    "atividadePrincipal": "https://injibr.github.io/inji-did/contexts/caf/v1#atividadePrincipal",
+    "caracterizacaoArea": "https://injibr.github.io/inji-did/contexts/caf/v1#caracterizacaoArea",
+    "enquadramentoPronaf": "https://injibr.github.io/inji-did/contexts/caf/v1#enquadramentoPronaf",
+    "membros": "https://injibr.github.io/inji-did/contexts/caf/v1#membros",
+    "areas": "https://injibr.github.io/inji-did/contexts/caf/v1#areas",
+    "cnpj": "https://injibr.github.io/inji-did/contexts/caf/v1#cnpj",
+    "razaoSocial": "https://injibr.github.io/inji-did/contexts/caf/v1#razaoSocial",
+    "emissor": "https://injibr.github.io/inji-did/contexts/caf/v1#emissor"
+  }
+}
