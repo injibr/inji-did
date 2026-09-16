@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@version": 1.1,
+    "SGQPCursoCredential": "https://injibr.github.io/inji-did/contexts/sgqp/v1#SGQPCursoCredential",
+    "nomeCompleto": "https://injibr.github.io/inji-did/contexts/sgqp/v1#nomeCompleto",
+    "cpf": "https://injibr.github.io/inji-did/contexts/sgqp/v1#cpf",
+    "nomeMae": "https://injibr.github.io/inji-did/contexts/sgqp/v1#nomeMae",
+    "dataNascimento": "https://injibr.github.io/inji-did/contexts/sgqp/v1#dataNascimento",
+    "nomeCurso": "https://injibr.github.io/inji-did/contexts/sgqp/v1#nomeCurso",
+    "cargaHoraria": "https://injibr.github.io/inji-did/contexts/sgqp/v1#cargaHoraria",
+    "modalidade": "https://injibr.github.io/inji-did/contexts/sgqp/v1#modalidade",
+    "instituicao": "https://injibr.github.io/inji-did/contexts/sgqp/v1#instituicao",
+    "ente": "https://injibr.github.io/inji-did/contexts/sgqp/v1#ente",
+    "uf": "https://injibr.github.io/inji-did/contexts/sgqp/v1#uf",
+    "municipio": "https://injibr.github.io/inji-did/contexts/sgqp/v1#municipio",
+    "dataInicio": "https://injibr.github.io/inji-did/contexts/sgqp/v1#dataInicio",
+    "dataConclusao": "https://injibr.github.io/inji-did/contexts/sgqp/v1#dataConclusao"
+  }
+}
